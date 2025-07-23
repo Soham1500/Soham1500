@@ -60,7 +60,7 @@ I'm a passionate and highly motivated <strong>Full-Stack Java Developer (Fresher
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
   <img width="12" />
@@ -90,7 +90,7 @@ I'm a passionate and highly motivated <strong>Full-Stack Java Developer (Fresher
 <h3 align="left">📊 My GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soham1500&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=soham1500&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
 </div>
 
 ###
