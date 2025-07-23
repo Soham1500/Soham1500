@@ -31,41 +31,59 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 <p align="left">
-I'm Soham Kale from India.<br><br>
-- 🔭 I’m working as a Full-Stack Java Developer Intern<br>
-- 📚 Currently learning advanced AI integrations and scalable backend architectures<br>
-- ⚡ In my free time, I build AI tools, contribute to open source, and explore tech innovations<br>
+I'm a passionate and highly motivated <strong>Full-Stack Java Developer (Fresher)</strong> who loves to build meaningful, scalable, and intelligent applications. I specialize in creating full-stack solutions using modern technologies and frameworks.<br><br>
+- 🔭 I’ve built multiple AI-powered projects like <strong>Email Assistant</strong> and <strong>Research Assistant</strong><br>
+- 🚀 I deployed the <strong>Email Assistant backend</strong> using <strong>Docker on Render</strong><br>
+- 🌐 I deployed the <strong>Email Assistant frontend</strong> using <strong>Vercel</strong><br>
+- 📚 I'm currently learning advanced cloud and DevOps practices<br>
+- ⚡ I love experimenting with AI, automation, and open-source tools
 </p>
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Technologies I Know</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring Boot" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
 </div>
 
 ###
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">💼 Projects</h3>
 
-- 🔹 [AI-Powered Email Assistant](https://github.com/Soham1500/Email-Assistant): Chrome extension that automates intelligent email replies using Gemini API and Spring Boot backend.
+- 🔹 [**AI-Powered Email Assistant**](https://github.com/Soham1500/Email-Assistant):  
+  Built a Chrome extension and Spring Boot backend to automatically generate personalized email replies using Gemini API.  
+  ✅ Backend deployed using **Docker on Render**  
+  ✅ Frontend deployed on **Vercel**
 
-- 🔹 [AI Research Assistant](https://github.com/Soham1500/Research_Assistant): Full-stack academic tool that enables real-time summarization, citation generation, and recommendations for research content.
+- 🔹 [**AI Research Assistant**](https://github.com/Soham1500/Research_Assistant):  
+  A web app that summarizes research content and generates citations using LLMs. Built with Spring Boot + React + Gemini API.
 
 ###
 
