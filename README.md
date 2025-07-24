@@ -1,105 +1,205 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
 
-###
+# 📧 Smart Email Assistant
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/soham-kale-055734270" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-</div>
+An AI-powered application that generates intelligent, context-aware email replies based on user input and tone preferences.
 
-###
+> 💡 Built using **React + Clerk** (Frontend) and **Spring Boot + Gemini API + Docker** (Backend)  
+> 🌐 **Live Frontend**: [email-assistant-omega.vercel.app](https://email-assistant-omega.vercel.app)  
+> 🛠️ **Live Backend**: [email-assistant-kb9h.onrender.com/api](https://email-assistant-kb9h.onrender.com/api)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=soham1500.soham1500" />
-</div>
+---
 
-###
+## 🔥 Project Screenshots
 
-<h1 align="center">Hey there 👋, I'm Soham Kale</h1>
+### ✅ Login Page (Live Clerk Auth)
 
-###
+![Login Page](./assets/login-page.png)
 
-<h3 align="left">👨‍💻 About Me</h3>
+### ✅ Backend API Running on Render
 
-<p align="left">
-I'm a passionate and highly motivated <strong>Full-Stack Java Developer (Fresher)</strong> who loves to build meaningful, scalable, and intelligent applications. I specialize in creating full-stack solutions using modern technologies and frameworks.<br><br>
-- 🔭 I’ve built multiple AI-powered projects like <strong>Email Assistant</strong> and <strong>Research Assistant</strong><br>
-- 🚀 I deployed the <strong>Email Assistant backend</strong> using <strong>Docker on Render</strong><br>
-- 🌐 I deployed the <strong>Email Assistant frontend</strong> using <strong>Vercel</strong><br>
-- 📚 I'm currently learning advanced cloud and DevOps practices<br>
-- ⚡ I love experimenting with AI, automation, and open-source tools
-</p>
+![Backend Render](./assets/backend-render.png)
 
-###
+### ✅ Clerk Sign-Up Page
 
-<h3 align="left">🛠 Technologies I Know</h3>
+![Sign Up Page](./assets/signUp/signup-page.png)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" />
-</div>
+---
 
-###
+## ⚙️ Tech Stack
 
-<h3 align="left">💼 Projects</h3>
+| Layer      | Technology |
+|------------|------------|
+| Frontend   | React (Vite), Material UI, Clerk Auth, Axios, Framer Motion |
+| Backend    | Spring Boot 3, Java 23, WebClient, Gemini API |
+| Auth       | Clerk.dev |
+| Deployment | Vercel (Frontend), Render (Backend - Dockerized) |
+| AI Model   | Google Gemini via OpenRouter API |
+| Database   | PostgreSQL (Render Free Tier) |
 
-- 🔹 [**AI-Powered Email Assistant**](https://github.com/Soham1500/Email-Assistant):  
-  Built a Chrome extension and Spring Boot backend to automatically generate personalized email replies using Gemini API.  
-  ✅ Backend deployed using **Docker on Render**  
-  ✅ Frontend deployed on **Vercel**
+---
 
-- 🔹 [**AI Research Assistant**](https://github.com/Soham1500/Research_Assistant):  
-  A web app that summarizes research content and generates citations using LLMs. Built with Spring Boot + React + Gemini API.
+## 🚀 Live Demo
 
-###
+👉 Try the app here:  
+**🔗 [https://email-assistant-omega.vercel.app](https://email-assistant-omega.vercel.app)**  
+Login using Clerk and start generating email replies with AI.
 
-<h3 align="left">📊 My GitHub Stats</h3>
+---
 
-<div align="center">
-  <img src="https://streak-stats.vercel.app/?user=soham1500&theme=dark&hide_border=false" height="220" alt="GitHub Streak Stats" />
-</div>
+## ✨ Features
 
-###
+- 🔐 **Secure Auth** via Clerk (Sign in / Sign out)
+- 🧠 **AI-powered replies** using Google Gemini
+- 🎨 **Tone Selector** (Professional, Friendly, Casual)
+- 💡 **Dark Mode Toggle**
+- 📤 **Copy to Clipboard** functionality
+- 🚀 **Live Deployed** with working Render + Vercel
 
-<h3 align="left">📫 Contact Me</h3>
+---
 
-<p>
-📧 sohamkale2711@gmail.com<br>
-📞 +91-7822862630<br>
-🔗 <a href="https://www.linkedin.com/in/soham-kale-055734270" target="_blank">LinkedIn</a><br>
-🔗 <a href="https://github.com/soham1500" target="_blank">GitHub</a>
-</p>
+## 🧠 How it Works
+
+1. User logs in via Clerk.
+2. Enters:
+   - Original email content
+   - Topic (optional)
+   - Desired tone
+3. Frontend calls secure Spring Boot backend with Clerk JWT token.
+4. Backend uses Gemini API to generate an appropriate email reply.
+5. The reply is shown and can be copied.
+
+---
+
+## 🐳 Deploying Backend to Render using Docker
+
+### 🧱 Dockerfile (Spring Boot)
+
+```dockerfile
+FROM eclipse-temurin:23-jdk-alpine
+VOLUME /tmp
+COPY target/email-writer-sb-0.0.1-SNAPSHOT.jar app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
+```
+
+### 🚀 Steps
+
+1. Build JAR locally using Maven:
+   ```bash
+   ./mvnw clean package -DskipTests
+   ```
+2. Push to GitHub
+3. Connect GitHub repo to [Render.com](https://render.com/)
+4. Use "Docker" deploy type
+5. Set environment variables:
+   - `frontend.urls=https://email-assistant-omega.vercel.app`
+   - Gemini API key, etc.
+
+✅ Done! Render spins up your backend container.
+
+---
+
+## 🧠 Gemini Integration (Backend)
+
+- Uses Google’s **Gemini AI** (via OpenRouter) for generating context-aware replies.
+- Request built using `WebClient` in Spring Boot.
+- Example Java snippet:
+
+```java
+WebClient client = webClientBuilder.build();
+String reply = client.post()
+    .uri("https://openrouter.ai/api/v1/chat/completions")
+    .header("Authorization", "Bearer " + geminiApiKey)
+    .bodyValue(requestBody)
+    .retrieve()
+    .bodyToMono(String.class)
+    .block();
+```
+
+---
+
+## 📁 Project Structure
+
+### 📦 Backend (`email-writer-sb`)
+```
+src/
+├── config/
+│   └── CorsConfig.java
+├── controller/
+│   └── EmailController.java
+├── dto/
+│   └── EmailRequest.java
+├── service/
+│   └── EmailService.java
+├── EmailWriterSbApplication.java
+```
+
+### 💻 Frontend (`email-frontend`)
+```
+src/
+├── App.jsx
+├── main.jsx
+├── components/ (optional split)
+└── vite.config.js
+```
+
+---
+
+## 🧪 Local Setup
+
+### 📦 Backend
+
+```bash
+git clone https://github.com/Soham1500/Email-Assistant.git
+cd Email-Backend
+./mvnw spring-boot:run
+```
+
+Ensure `.env` or `application.properties` contains:
+```properties
+frontend.urls=http://localhost:5173
+openrouter.api.key=YOUR_GEMINI_API_KEY
+```
+
+### 💻 Frontend
+
+```bash
+cd Email-Frontend
+npm install
+npm run dev
+```
+
+And add `.env`:
+```env
+VITE_BACKEND_URL=http://localhost:8080/api
+```
+
+---
+
+## 📌 To Do / Improvements
+
+- ✍️ Save generated email history per user
+- 📩 Allow editing generated replies before sending
+- 📬 Gmail API integration to auto-send emails
+- 🧠 Fine-tune Gemini prompt for better personalization
+
+---
+
+## 📸 Image Assets Credit
+
+- Login Page: `login-page.png`  
+- Render Backend: `backend-render.png`
+- Clerk Sign-Up Page: `signup-page.png`
+
+> Make sure these are uploaded in `./assets/` or `./assets/signUp/` folders in your GitHub repo for proper image rendering.
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome! Please fork the repo and submit a PR.
+
+---
+
+## 📜 License
+
+MIT License
