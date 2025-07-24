@@ -13,7 +13,7 @@ An AI-powered application that generates intelligent, context-aware email replie
 
 ### ✅ Login Page (Live Clerk Auth)
 
-![Login Page](./assets/login-page.png)
+![Login Page](./Email-Assistant/tree/main/Email-Frontend/src/assets/login-page.png)
 
 ### ✅ Backend API Running on Render
 
